@@ -1,14 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"projectName" : "Kawakawa Bay Kindergarten",
+	"projectID" :"BCO0000237",
+	"projectDescription":"Complete rebuild of the heat detector system for the Ministry of Education (MOE) property in Kawakawa Bay.",
+	"daysLeft":"10",
+	"rfiResponse":[
+	         {
+	            "rfiHeader":"Fire cell limit",
+	            "agentComments":"Comments, reasons and requests. This is not editable by the applicant, they need to use the comment field to respond.</br></br>This is just the request relating to the item in the checklist, there could be screenshots and <a href=\"/councilonline/consent/building/uploadDocuments?formId=0001001600&productType=BC_COMBINED#\">links to the plans and documents repository</a> and stuff from the MBIE website that relate to this clause.",
+	            "agentId":"RM",
+	            "commentedDateFormat":"06:58 PM Friday 01 October 2021"
+	         },
+	         {
+	            "rfiHeader":"Fire resistance rating - life rating, property rating -paragraph 2.3",
+	            "agentComments":"The plan for floor coverings to prevent fire from spreading has not been fully mitigated to the specification, you will need to revise your drawing to accommodate for fire spread.</br></br> Another well composed sentance clearly asking a specific question that is often included in this kind of request for information.</br></br> The description of the material does not meet the criteria to it's full extent, try one of these suggested materials.",
+	            "agentId":"AR",
+	            "commentedDateFormat":"06:58 PM Friday 01 October 2021"
+	         }
+         ]
 }
